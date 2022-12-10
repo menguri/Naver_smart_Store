@@ -42,6 +42,10 @@ chromedriver 로 크롤링을 하기에, chromedriver와 사용자가 쓰고 있
 
 ## [실행/결과 이미지]<br><br>
 
+(0) 프로그램의 아이콘입니다.<br><br>
+![logo](https://user-images.githubusercontent.com/58064919/206831717-0d53b8b7-d627-4905-89de-295a49b50e7d.png)
+<br><br><br>
+
 (1) 프로그램을 클릭하면 다음과 같은 창이 뜹니다. 의뢰인은 프로그램 도용을 막기 위해, 특정 코드를 입력해야 들어갈 수 있도록 하길 원했습니다.<br><br>
 ![image](https://user-images.githubusercontent.com/58064919/206830945-022e5c18-0ad3-4626-9f92-4d6f9b839532.png)
 <br><br><br>
