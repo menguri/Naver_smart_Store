@@ -1,5 +1,6 @@
 # Naver_smart_Store
 네이버 SmartStore에 업로드 된 상품 정보를 수집합니다. 상품 정보들은 상품 등록이 바로 가능한 Excel 파일로 변환됩니다. 
+<br><br><br>
 
 ## [개발 동기]<br>
 Kmong에서 개발 외주를 받아서 만들게 되었다. 의뢰인은 스마트 스토어의 링크와 카테고리를 입력하면 관련된 모든 상품 정보를 담아오길 원했다. 또한 HTML 코드를 작성자가 원하는대로 수정할 수 있길 바랐다.
@@ -8,14 +9,14 @@ Kmong에서 개발 외주를 받아서 만들게 되었다. 의뢰인은 스마�
 ## [개발 결과]<br>
 Kmong 후기 <br><br>
 ![image](https://user-images.githubusercontent.com/58064919/206830872-91ec99da-a005-436c-b115-20649b13d2dc.png)
-
-
 <br><br><br>
+
 
 ## [크롤링 대상]<br><br>
 네이버 스마트스토어
 https://sell.smartstore.naver.com/#/home/about
 <br><br><br>
+
 
 ## [개발 언어]<br><br>
 Python
@@ -24,9 +25,7 @@ library: BeautifulSoup, Selenium, pandas, seaborn, matplotlib, folium
 
 ## [주의할 점]<br><br>
 chromedriver 로 크롤링을 하기에, chromedriver와 사용자가 쓰고 있는 chrome 버전이 일치해야 돌아간다.
-<br>
-<br>
-<br>
+<br><br><br>
 
 ## [실행 파일 만드는 방법]<br><br>
 
